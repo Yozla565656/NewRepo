@@ -1,1 +1,2 @@
 "This is FileB" 
+Fixing Item#1578
